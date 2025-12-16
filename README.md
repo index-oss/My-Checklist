@@ -8,3 +8,5 @@ GHDB
 parameter handling
 code injection 
 sublister Aamass
+
+buffer over flow server misconfiguration
